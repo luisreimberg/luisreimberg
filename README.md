@@ -2,7 +2,7 @@ Olá, meu nome é Luis! 👋
 
 Sou formado em Ciências Contábeis e pós-graduando em Gestão e Análise Estratégica de Dados. 
 
-Na pós-graduação me descobri apaixonado por dados e todas as possíveis áreas de atuação, especialmente Data Science. A partir disso comecei a procurar aprender mais sobre Python, SQL, estatística, visualização de dados e Machine Learning.
+Na pós-graduação me descobri apaixonado por dados e todas as possíveis áreas de atuação, especialmente Data Science. A partir disso comecei a aprender mais sobre Python, SQL, estatística, visualização de dados e Machine Learning.
 
 Levo sempre essa frase comigo: **Always learning, always improving!**
 
