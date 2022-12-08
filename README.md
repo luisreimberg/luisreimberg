@@ -1,10 +1,9 @@
 Olá, meu nome é Luis! 👋
 
-Sou formado em Ciências Contábeis e pós-graduando em Gestão e Análise Estratégica de Dados. 
 
-Na pós-graduação me descobri apaixonado por dados e todas as possíveis áreas de atuação, especialmente Data Science. A partir disso comecei a aprender mais sobre Python, SQL, estatística, visualização de dados e Machine Learning.
 
-Levo sempre essa frase comigo: **Always learning, always improving!**
+
+**Always learning, always improving!**
 
 ## 
 👉 Confira meu último projeto de DS: [Prevendo o Consumo de Cerveja Utilizando Regressão Linear](https://github.com/luisreimberg/Prevendo-o-consumo-de-cerveja)
